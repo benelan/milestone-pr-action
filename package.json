@@ -46,8 +46,8 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-github": "^5.0.1",
     "js-yaml": "^4.1.0",
-    "prettier": "3.3.1",
-    "typescript": "^5.4.5"
+    "prettier": "3.3.3",
+    "typescript": "^5.5.4"
   },
   "engines": {
     "node": ">=20"
